@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="4.2">
+    <attributes>
+        <attribute name="name" value="EVA1_PRACT3_PRINT"/>
+        <attribute name="authors" value="aylin"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2025-08-26 05:34:02 p. m."/>
+        <attribute name="created" value="YXlsaW47TEFQVE9QLTQ2OFEzM0hDOzIwMjUtMDgtMjY7MDU6Mjg6NTEgcC4gbS47MzAxMg=="/>
+        <attribute name="edited" value="YXlsaW47TEFQVE9QLTQ2OFEzM0hDOzIwMjUtMDgtMjY7MDU6MzQ6MDIgcC4gbS47MTszMTEz"/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <output expression="&quot;NOMBRE DEL ESTUDIANTE&quot;" newline="False"/>
+            <output expression="&quot;AYLIN CORDERO&quot;" newline="True"/>
+            <output expression="&quot;NUMERO DE CONTROL&quot;" newline="False"/>
+            <output expression="&quot;25550699&quot;" newline="True"/>
+            <output expression="&quot;EDAD&quot;" newline="False"/>
+            <output expression="&quot;17&quot;" newline="True"/>
+        </body>
+    </function>
+</flowgorithm>
