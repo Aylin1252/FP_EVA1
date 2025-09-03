@@ -15,6 +15,12 @@ public class EVA1_83_TEMPERATURA {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        double k,c;
+        c= 10;
+        k=c+273.15;
+        System.out.println("Cuando c=10 k son:");
+        System.out.println(k);
+        
     }
     
 }
